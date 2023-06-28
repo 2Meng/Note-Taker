@@ -13,3 +13,15 @@ ACCEPTANCE CRITERIA GIVEN a note-taking application WHEN I open the Note Taker T
 
 
 ![image](https://github.com/2Meng/Note-Taker/assets/91503750/9e8e3f21-1259-4110-8e6a-c1e2ae0bdf52)
+
+
+Table of Contents
+Installation
+Usage
+Credits
+License
+
+
+Installation
+
+Make sure the npm package is installed. Run npm start and then go to the local host in the browser to interact with the application. (http://localhost:3001). Or, visit the site hosted by heroku: https://note-taker-2meng-edc18ea8481f.herokuapp.com/
